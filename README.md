@@ -234,10 +234,13 @@ Visual hierarchy: Train scientists on composing images that guide the viewer's e
 Storytelling with images: Go beyond just capturing data and encourage scientists to think about the narrative their images tell. This can be particularly impactful for presentations and outreach materials.
 
 **2. Advanced Techniques:**
-Focus stacking: For capturing highly detailed macro images of seeds, train scientists on focus stacking techniques to overcome depth-of-field limitations.
-Light painting: Introduce light painting techniques for highlighting specific features of seeds or creating visually compelling images for presentations.
-Time-lapse photography: For studying dynamic processes like seed germination or seedling growth, consider including time-lapse photography techniques in the training.
-AI-assisted companion planting: Large language models such as GRN.AI3 can be used to generate experimental models designed to optimise “small space” garden planning  https://huggingface.co/spaces/danidanidani/GRDN.AI.3
+**Focus stacking:** For capturing highly detailed macro images of seeds, train scientists on focus stacking techniques to overcome depth-of-field limitations.
+
+**Light painting:** Introduce long exposure light painting techniques for highlighting specific features of seeds or creating visually compelling images for presentations.
+
+**Time-lapse photography:** For studying dynamic processes like seed germination or seedling growth, consider including time-lapse photography techniques in the training.
+
+**AI-assisted companion planting hypothesis synthesis:** Large language models such as GRN.AI3 can be used to generate experimental models designed to optimise “small space” garden planning, but does its suggestion work in the lab?   https://huggingface.co/spaces/danidanidani/GRDN.AI.3
 
 **3. General Software Skills:**
 Image editing software: Train scientists on basic image editing skills in software like google photos, Adobe Lightroom or Photoshop to adjust brightness, contrast, and color without compromising data integrity.
