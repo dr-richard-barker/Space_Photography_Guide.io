@@ -149,7 +149,7 @@ Data sharing: There are many ways to share images such as Google Drive links, Ze
 
 ---
 
-**Additional Tips for trainers:**
+**Additional Tips for Trainers:**
 
 **Training and guidance:** Provide clear instructions and training to scientists on the proper use and placement of the scale bar.
 
@@ -157,10 +157,7 @@ Data sharing: There are many ways to share images such as Google Drive links, Ze
 
 **Regular maintenance:** Clean and inspect the scale bar regularly for any signs of wear or damage that could affect accuracy.
 
-
-For further analysis consider these tools and concepts:
-
-**Specialized software:** Explore software programs specifically designed for scientific image analysis with scale bars.
+**Specialized software:** Explore software programs specifically designed for scientific image analysis with scale bars that are accessible and open source.
 
 **Digital overlays:** Investigate options for digital scale bar overlays that can be added to images during post-processing.
 
@@ -233,23 +230,24 @@ This biological photography training plan aims to be comprehensive and cover all
 Visual hierarchy: Train scientists on composing images that guide the viewer's eye to the main point of interest using techniques like depth of field, leading lines, and rule of thirds.
 Storytelling with images: Go beyond just capturing data and encourage scientists to think about the narrative their images tell. This can be particularly impactful for presentations and outreach materials.
 
-**2. Advanced Techniques:**
-**Focus stacking:** For capturing highly detailed macro images of seeds, train scientists on focus stacking techniques to overcome depth-of-field limitations.
-
-**Light painting:** Introduce long exposure light painting techniques for highlighting specific features of seeds or creating visually compelling images for presentations.
-
-**Time-lapse photography:** For studying dynamic processes like seed germination or seedling growth, consider including time-lapse photography techniques in the training.
-
-**AI-assisted companion planting hypothesis synthesis:** Large language models such as GRN.AI3 can be used to generate experimental models designed to optimise “small space” garden planning, but does its suggestion work in the lab?   https://huggingface.co/spaces/danidanidani/GRDN.AI.3
-
-**3. General Software Skills:**
+**2. General Software Skills:**
 Image editing software: Train scientists on basic image editing skills in software like google photos, Adobe Lightroom or Photoshop to adjust brightness, contrast, and color without compromising data integrity.
 Other Image Analysis Software: Introduce specific software tools designed for scientific image analysis, such as measuring distances, areas, and other parameters from captured images.
 
-**4. Ethics and Data Sharing:**
+**3. Ethics and Data Sharing:**
 Image ownership and authorship: Discuss ethical considerations around image ownership and proper attribution in scientific publications.
 Data sharing practices: Train scientists on best practices for sharing and archiving raw and processed image data to ensure transparency and reproducibility.
 NASA Transform to Open Science (TOpS): More training and awards from NASA can be achieved by completing the free online TOpS training course. https://nasa.github.io/Transform-to-Open-Science/
+
+**4. Advanced Techniques for Technological Integration:**
+**A: Focus stacking:** For capturing highly detailed macro images of seeds, train scientists on focus stacking techniques to overcome depth-of-field limitations.
+
+**B: Light painting:** Introduce long exposure light painting techniques for highlighting specific features of seeds or creating visually compelling images for presentations.
+
+**C: Time-lapse photography:** For studying dynamic processes like seed germination or seedling growth, consider including time-lapse photography techniques in the training.
+
+**D: AI-assisted companion planting hypothesis synthesis:** Large language models such as GRN.AI3 can be used to generate experimental models designed to optimise “small space” garden planning, but does its suggestion work in the lab?   https://huggingface.co/spaces/danidanidani/GRDN.AI.3
+
 
 ---
 
@@ -262,7 +260,8 @@ I hope this feedback is helpful!
 
 
 ![Photography_2.png](Figures/Photography_2.png)
-DALLE 4 inspiration: Minimal diagram of an AstroBotany Spectrum Scale Imaging Setup. The setup includes a camera positioned perpendicular to the imaging plane for a straight-on view of the seeds and the scale bar. An AstroBotany Spectrum Scale Bar is placed within the same plane as the seeds, slightly behind or beside them for visibility. Two adjustable light sources are placed at 45-degree angles to the imaging plane, ensuring even illumination. A contrasting background enhances seed and scale bar visibility. The setup also includes a stable tripod and a reference object for size verification. 
+
+**DALLE 4 inspiration:** Minimal diagram of an AstroBotany Spectrum Scale Imaging Setup. The setup includes a camera positioned perpendicular to the imaging plane for a straight-on view of the seeds and the scale bar. An AstroBotany Spectrum Scale Bar is placed within the same plane as the seeds, slightly behind or beside them for visibility. Two adjustable light sources are placed at 45-degree angles to the imaging plane, ensuring even illumination. A contrasting background enhances seed and scale bar visibility. The setup also includes a stable tripod and a reference object for size verification. 
 
 ---
 
