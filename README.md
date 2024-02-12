@@ -21,7 +21,8 @@ Feel free to adapt it further to fit your specific needs!
 
 # AstroBotany Spectrum Scale Imaging Setup Diagram 
 
-![photography9.png](Figures/photography9.png)
+![Illustration the optimal placement of a camera, the AstroBotany Spectrum scale bar, lights, and camera for consistent and high-quality image capture. 
+A simple diagram showing the placement of the camera is a light perpendicular to the germinating seeds or seedlings. In this example, the seeds are germinated on agar gel / or blue filter paper..png](Figures/photography9.png)
 
 **Above:** Illustration the optimal placement of a camera, the AstroBotany Spectrum scale bar, lights, and camera for consistent and high-quality image capture. 
 A simple diagram showing the placement of the camera is a light perpendicular to the germinating seeds or seedlings. In this example, the seeds are germinated on agar gel / or blue filter paper.
@@ -39,7 +40,7 @@ Diffusers can be used to soften the light further or circular flash bulbs can al
 
 # Setting Up Your Photos to Maximize Ease of Analysis
 
-![photography8.png](Figures/photography8.png)
+![Setting Up Your Photos to Maximize Ease of Analysis](Figures/photography8.png)
 
 Start with a single plant and ask yourself if you took a photo from that angle do you think you could easily draw a line around the edge?
 
@@ -67,7 +68,7 @@ Remember to adjust the specific setup based on your camera's field of view, work
 
 # Optimising Seedling Placement to Maximize Data Analysis Potential
 
-![photography7.png](Figures/photography7.png)
+![Optimising Seedling Placement to Maximize Data Analysis Potential](Figures/photography7.png)
 
 
 It is critical to take photos which are clear both for human eyes and for computer interpretation. 
@@ -94,19 +95,8 @@ The dashed line shows the area you want to capture in your images.
 While these images show a white background, a black background would also work.
 
 
-![photography6.png](Figures/photography6.png)
+![Diagrams for Setting Up Your Photo](Figures/photography6.png)
 
-
-# Example photography setup for tomato flower
-
-![photography5.png](Figures/photography5.jpeg)
-
-Here the SPECTRUM sticker is mounted to a plastic tile to make it flat, in the background you can see an older version of the sticker standing up and curving as it’s not stuck to a surface.
-
-
-![photography4.png](Figures/photography4.jpeg)
-
-An example photo taken from above to help make it easier to segment this tomato flower using computer vision code to help automate image analysis.
 
 ---
 
@@ -147,6 +137,18 @@ Software compatibility: Ensure the scale bar's measurements can be seamlessly in
 Metadata inclusion: Store scale bar information (e.g., length, units) as metadata within image files for easy retrieval and analysis.
 Data sharing: There are many ways to share images such as Google Drive links, Zendo and others.  
 
+
+# Example photography setup for tomato flower
+
+![Here the SPECTRUM sticker is mounted to a plastic tile to make it flat, in the background you can see an older version of the sticker standing up and curving as it’s not stuck to a surface.](Figures/photography5.jpeg)
+
+Here the SPECTRUM sticker is mounted to a plastic tile to make it flat, in the background you can see an older version of the sticker standing up and curving as it’s not stuck to a surface.
+
+
+![An example photo taken from above to help make it easier to segment this tomato flower using computer vision code to help automate image analysis.](Figures/photography4.jpeg)
+
+An example photo taken from above to help make it easier to segment this tomato flower using computer vision code to help automate image analysis.
+
 ---
 
 **Additional Tips for Trainers:**
@@ -167,7 +169,7 @@ By implementing these strategies and utilizing appropriate tools, you can maximi
 
 ---
 
-![photography3.png](Figures/photography3.png)
+![View of the experiment with an additional feature: the plants are now inside cuboid tissue culture tubes. These tubes are placed within the microwave, containing aquatic plants at various stages of growth. Above the microwave, the CCTV cameras observe plant growth, and a cellphone-style touch screen on a stand, all focusing on the plants inside the tubes and bowls. This arrangement highlights a more controlled and scientific approach to plant growth monitoring in a high-tech experimental environment](Figures/photography3.png)
 
 **DALLE4 inspiration:** View of the experiment with an additional feature: the plants are now inside cuboid tissue culture tubes. These tubes are placed within the microwave, containing aquatic plants at various stages of growth. Above the microwave, the CCTV cameras observe plant growth, and a cellphone-style touch screen on a stand, all focusing on the plants inside the tubes and bowls. This arrangement highlights a more controlled and scientific approach to plant growth monitoring in a high-tech experimental environment.
 
@@ -219,9 +221,9 @@ Collective sharing results from potential surveys may allow for increased impact
 
 ---
 
-![Photography_1.png](Figures/Photography_1.png)
+![Imagine a 3D holographic screen that displays images of the plants' health, visualized in a hologram that ranges from red to blue, indicating various health levels. The hologram floats in the air, providing a dynamic and interactive way to monitor plant health. This addition helps you imagine how you could bring high-tech and advanced technology to the experimental setup, to emphasize the cutting-edge nature of your research](Figures/Photography_1.png)
 
-**DALLE4 inspiration:** Imagine a 3D holographic screen that displays images of the plants' health, visualized in a hologram that ranges from red to blue, indicating various health levels. The screen is positioned near a microwave and cameras. The hologram floats in the air, providing a dynamic and interactive way to monitor plant health. This addition helps you imagine how you could bring high-tech and advanced technology to the experimental setup, to emphasize the cutting-edge nature of your research.
+**DALLE4 inspiration:** Imagine a 3D holographic screen that displays images of the plants' health, visualized in a hologram that ranges from red to blue, indicating various health levels. The hologram floats in the air, providing a dynamic and interactive way to monitor plant health. This addition helps you imagine how you could bring high-tech and advanced technology to the experimental setup, to emphasize the cutting-edge nature of your research.
 
 **A few additional points for educators** 
 This biological photography training plan aims to be comprehensive and cover all the key aspects for improving data consistency. However, there are a few additional points you might consider including or discussing with your team:
@@ -231,8 +233,8 @@ Visual hierarchy: Train scientists on composing images that guide the viewer's e
 Storytelling with images: Go beyond just capturing data and encourage scientists to think about the narrative their images tell. This can be particularly impactful for presentations and outreach materials.
 
 **2. General Software Skills:**
-Image editing software: Train scientists on basic image editing skills in software like google photos, Adobe Lightroom or Photoshop to adjust brightness, contrast, and color without compromising data integrity.
-Other Image Analysis Software: Introduce specific software tools designed for scientific image analysis, such as measuring distances, areas, and other parameters from captured images.
+Image editing software: Train scientists on basic image editing skills in software like Google Photos, Adobe Lightroom or Photoshop or prefereabily open sources software like Gimp or custom codes to adjust brightness, contrast, and color without compromising data integrity.
+Try Other Image Analysis Software: There are many different software tools designed for scientific image analysis, such as measuring distances, areas, and other parameters from captured images; so have a play and see what works best for you!
 
 **3. Ethics and Data Sharing:**
 Image ownership and authorship: Discuss ethical considerations around image ownership and proper attribution in scientific publications.
@@ -259,9 +261,9 @@ Feel free to tailor these suggestions to suit your specific requirements!
 I hope this feedback is helpful!
 
 
-![Photography_2.png](Figures/Photography_2.png)
+![Minimal diagram of space biology photography setup. The setup includes a camera positioned perpendicular to the imaging plane for a straight-on view of the seeds and a scale bar. The Scale Bar is placed within the same plane as the seeds, slightly behind or beside them for visibility. Two adjustable light sources are placed at 45-degree angles to the imaging plane, ensuring even illumination. A contrasting background enhances seed and scale bar visibility. The setup also includes a stable tripod and a reference object for size verification](Figures/Photography_2.png)
 
-**DALLE 4 inspiration:** Minimal diagram of an AstroBotany Spectrum Scale Imaging Setup. The setup includes a camera positioned perpendicular to the imaging plane for a straight-on view of the seeds and the scale bar. An AstroBotany Spectrum Scale Bar is placed within the same plane as the seeds, slightly behind or beside them for visibility. Two adjustable light sources are placed at 45-degree angles to the imaging plane, ensuring even illumination. A contrasting background enhances seed and scale bar visibility. The setup also includes a stable tripod and a reference object for size verification. 
+**DALLE 4 inspiration:** Minimal diagram of space biology photography setup. The setup includes a camera positioned perpendicular to the imaging plane for a straight-on view of the seeds and a scale bar. The Scale Bar is placed within the same plane as the seeds, slightly behind or beside them for visibility. Two adjustable light sources are placed at 45-degree angles to the imaging plane, ensuring even illumination. A contrasting background enhances seed and scale bar visibility. The setup also includes a stable tripod and a reference object for size verification. 
 
 ---
 
