@@ -1,4 +1,4 @@
-# AstroBiology_Photography
+# Space Biology Photography Guide and Lesson Brainstorming
 AstroBiology Photography Training Guide for Transforming to Open Science and Growing Beyond Earth
 
 AstroBotany Scientific Photography SOP Standard Operating Procedure v1
