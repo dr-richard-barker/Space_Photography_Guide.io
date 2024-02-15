@@ -1,1 +1,1 @@
-This folder contains images from the CARA mission that have realigned and cropped using the adobe bridge digital darkroom's AI assistant to assist with guideline placement and subsequent translocation.
+This folder contains images of duckweed for practice. 
