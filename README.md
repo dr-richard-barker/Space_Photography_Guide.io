@@ -4,7 +4,7 @@
 
 
 
-# [Space Biology Photography Guide and Lesson Brainstorming](https://dr-richard-barker.github.io/Space_Biology_Photography_Guide.io/)
+# [Space Biology Photography Guide and Lesson Brainstorming](https://dr-richard-barker.github.io/Space_Photography_Guide.io/)
 AstroBiology Photography Training Guide for Transforming to Open Science and Growing Beyond Earth
 
 AstroBotany Scientific Photography SOP Standard Operating Procedure v1
